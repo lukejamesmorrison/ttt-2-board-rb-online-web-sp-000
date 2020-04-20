@@ -3,3 +3,5 @@ board = []
 9.times do
   board.push("h");
 end
+
+puts board
