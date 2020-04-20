@@ -3,7 +3,3 @@ board = []
 9.times do
   board.push(" ");
 end
-
-board = [' ', ' '];
-
-puts board
