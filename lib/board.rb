@@ -4,4 +4,6 @@ board = []
   board.push(" ");
 end
 
+board = [' ', ' '];
+
 puts board
